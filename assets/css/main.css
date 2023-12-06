@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Sans-pro';
+    src: url('../fonts/Sans-pro/SourceSansPro-Regular.ttf') format('truetype'),
+    /* Adjust as needed */
+  }
